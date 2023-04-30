@@ -1,2 +1,2 @@
 # JavaScript30
-JavaScript 30 day challenge by Wes Bos
+JavaScript coding challenge by Wes Bos
